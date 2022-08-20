@@ -1,0 +1,75 @@
+nav {
+  /* position: fixed;
+  top: 92px;
+  width: 100%;
+  z-index: 99;
+  left: 0px;
+  display: block;
+  transition: top 0.3s; */
+}
+.top-wrap {
+  background: #1c1c1c !important;
+  padding: 1em 3em;
+}
+.headerLightText {
+  display: block;
+  line-height: 1.4;
+  color: #b5b5b5;
+  font-size: 13px;
+  font-weight: 400;
+}
+
+.headerF1 {
+  color: #73b925;
+  font-size: 13px;
+}
+
+.icon i {
+  font-size: 34px;
+  line-height: 1;
+  color: #73b925;
+}
+
+.text {
+  padding-left: 10px;
+}
+
+.navbar-brand span {
+  font-weight: 800;
+  font-size: 27px;
+  color: #fff;
+  z-index: 3;
+  position: relative;
+  line-height: 1.1;
+  text-transform: uppercase;
+}
+
+.navbar-brand2 {
+  color: #999 !important;
+  text-transform: uppercase;
+  font-size: 11px !important;
+  display: block;
+  font-weight: 600 !important;
+  letter-spacing: 2px !important;
+}
+
+nav div button {
+  margin-left: auto !important;
+  background: white;
+}
+
+nav ul li a {
+  font-size: 15px;
+  padding-top: 0.4rem;
+  padding-bottom: 0.4rem;
+  padding-left: 25px;
+  padding-right: 25px;
+  color: rgba(255, 255, 255, 0.8);
+  font-weight: 500;
+  color: white;
+}
+
+.active {
+  background: #090909;
+  border-radius: 5%;
+}

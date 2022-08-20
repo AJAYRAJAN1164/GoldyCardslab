@@ -1,0 +1,300 @@
+.section1 {
+  height: 100vh;
+}
+
+#carouselExampleDark {
+  height: 100vh;
+  position: relative;
+}
+.carousel-item img {
+  width: 100%;
+  height: 650px;
+  position: relative;
+  z-index: 0;
+  overflow: hidden;
+  background-position: top center;
+  -webkit-box-shadow: 0 20px 35px -30px rgb(0 0 0 / 26%);
+  -moz-box-shadow: 0 20px 35px -30px rgba(0, 0, 0, 0.26);
+  box-shadow: 0 20px 35px -30px rgb(0 0 0 / 26%);
+  margin-top: -20px;
+}
+
+.carousel-item img:after {
+  position: absolute;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  content: "";
+  z-index: -1;
+  background: #000;
+  opacity: 0.5;
+  width: 100%;
+}
+
+.carousel-caption {
+  top: 42%;
+  left: 0;
+  right: 0;
+}
+
+.inner-img {
+  font-size: 14px;
+  letter-spacing: 1px;
+  color: #fff !important;
+  text-transform: uppercase;
+  font-weight: 600;
+  display: inline-block;
+  margin-bottom: 20px;
+  background: rgba(255, 255, 255, 0.1);
+  padding: 2px 15px;
+  border-radius: 50px 0 50px 0;
+}
+.inner-text {
+  font-weight: 400;
+  color: #fff;
+  font-size: 40px;
+  line-height: 1.2;
+}
+
+.caruoselImgStyle {
+  /* background-image: url("https://preview.colorlib.com/theme/ecogreen/images/xbg_1.jpg.pagespeed.ic.rNuYZtZy7l.webp"); */
+  width: 100%;
+  height: auto;
+  position: relative;
+  z-index: 0;
+  overflow: hidden;
+  background-position: top center;
+  -webkit-box-shadow: 0 20px 35px -30px rgb(0 0 0 / 26%);
+  -moz-box-shadow: 0 20px 35px -30px rgba(0, 0, 0, 0.26);
+  box-shadow: 0 20px 35px -30px rgb(0 0 0 / 26%);
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+.it1 {
+  background-image: url("https://preview.colorlib.com/theme/ecogreen/images/xbg_1.jpg.pagespeed.ic.rNuYZtZy7l.webp") !important;
+}
+
+.it2 {
+  background-image: url("https://preview.colorlib.com/theme/ecogreen/images/xbg_2.jpg.pagespeed.ic.yvUjqqa7T9.webp");
+}
+
+.it3 {
+  background-image: url("../../../assets/images/s.jpg");
+}
+
+.bg-light {
+  background: #f4f6f1 !important;
+}
+
+.ftco-section {
+  padding: 6em 0;
+  position: relative;
+  width: 100%;
+  overflow-x: hidden;
+}
+
+.ftco-section .main {
+  font-size: 13px;
+  display: block;
+  margin-bottom: 5px;
+  color: #73b925;
+  font-weight: 600;
+  text-transform: uppercase;
+  letter-spacing: 1px;
+}
+
+.sub-main {
+  font-weight: 500;
+  line-height: 1.4;
+  font-size: 40px;
+}
+
+.card-spcImg {
+  height: 100%;
+  padding: 3em;
+}
+
+.card-content {
+  background: #fff;
+  padding: 25px;
+}
+.card-spcImg img {
+  width: 100%;
+  height: 100%;
+}
+.first {
+  color: #73b925;
+  font-size: 13px;
+  text-transform: uppercase;
+  display: inline-block;
+  background: #effae4;
+  padding: 1px 5px;
+  border-radius: 2px;
+}
+.second {
+  font-weight: 600;
+  color: #000;
+  font-size: 20px;
+}
+.third {
+  font-size: 16px;
+  line-height: 1.8;
+  font-weight: 400;
+  color: #8c8c8c;
+}
+
+.section2 {
+  padding: 2em;
+}
+
+.s3Heading {
+  font-size: 40px;
+  font-weight: 500;
+  line-height: 1.4;
+}
+
+.s3Content {
+  padding: 2em;
+  padding-top: 10em;
+}
+
+.section4 {
+  background-image: url("https://preview.colorlib.com/theme/ecogreen/images/xbg_3.jpg.pagespeed.ic._JA69H-Ctc.webp");
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center center;
+  color: rgba(255, 255, 255, 0.8);
+  z-index: 0;
+  position: relative;
+  padding: 5em;
+}
+
+.section4 .overlay {
+  position: absolute;
+  inset: 0px;
+  content: "";
+  opacity: 0.8;
+  background: rgb(115, 185, 37);
+  z-index: -1;
+}
+
+.section4 p {
+  color: rgb(255, 255, 255);
+  font-weight: 600;
+  font-size: 30px;
+}
+
+.instaButton {
+  background: rgb(255, 255, 255) !important;
+  border: 1px solid rgb(255, 255, 255) !important;
+  color: rgb(115, 185, 37) !important;
+  width: 50%;
+  height: 75px;
+  display: flex;
+  justify-content: center;
+  text-align: center;
+  padding: 25px 0px;
+  border-radius: 5px;
+  margin: auto;
+}
+.instaButton a {
+  text-decoration: inherit;
+  color: rgb(115, 185, 37) !important;
+  font-weight: 600;
+}
+
+.instaButton:hover {
+  box-shadow: rgba(12, 12, 12, 0.25) 0px 0px 0px 0.2rem;
+}
+
+.seprateSection {
+  background-image: url("https://thestartupgen.com/wp-content/uploads/2019/10/team-1200x675.jpg");
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center center;
+  z-index: 0;
+  position: relative;
+  color: #fff;
+  padding: 2em;
+}
+
+.seprateSection .overlay {
+  position: absolute;
+  inset: 0px;
+  content: "";
+  opacity: 0.8;
+  background: rgb(53 74 30);
+  z-index: -1;
+}
+
+.seprateSection h1 {
+  font-weight: 500;
+  font-size: 40px;
+  margin-bottom: 25px;
+  line-height: 1.3em;
+  margin: 0 0 0.8em;
+}
+
+.seprateSection p {
+  text-align: justify;
+}
+
+.spcText {
+  color: #f16f4f !important;
+  margin-bottom: 10px;
+  font-size: 20px;
+  line-height: 1.3em;
+}
+
+.iRound {
+  border-radius: 100%;
+  height: 70px;
+  width: 70px;
+  border: 2px solid white;
+  display: flex;
+  text-align: center;
+  justify-content: center;
+  padding: 15px 0;
+  background: white;
+}
+
+.s2logo {
+  text-align: -webkit-center;
+}
+
+.wa-icon {
+  position: fixed;
+  bottom: 15px;
+  right: 60px;
+  z-index: 99;
+  background-color: rgba(0, 0, 0, 0.2);
+  cursor: pointer;
+  border-radius: 4px;
+  transform: translateZ(0);
+  transition: all 0.2s ease-in-out;
+}
+
+.waText {
+  color: #fff;
+  text-decoration: none;
+}
+
+.waImg {
+  width: 25px;
+  height: 25px;
+}
+.waImg img {
+  width: 100%;
+  height: 100%;
+}
+
+.animated {
+  visibility: visible !important;
+}
+.hide-on-init {
+  visibility: hidden;
+}
+
+.fadeIn {
+  display: none;
+}

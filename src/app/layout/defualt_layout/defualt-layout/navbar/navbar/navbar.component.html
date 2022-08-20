@@ -1,0 +1,78 @@
+<div class="main-header">
+  <div class="top-wrap">
+    <div class="container">
+      <div class="row">
+        <div class="col-md col-xl-4 d-flex align-items-center mb-4 mb-md-0">
+          <div>
+            <span class="icon">
+              <i class="fa-solid fa-earth-americas"></i
+            ></span>
+          </div>
+          <div class="navbar-brand align-items-center text">
+            <span>
+              <span class="g1"> Earth</span> Before <br />
+              <span class="navbar-brand2">Everything Else </span>
+            </span>
+          </div>
+        </div>
+        <div class="col-md d-flex align-items-center mb-2 mb-md-0">
+          <div class="box d-flex">
+            <div class="icon">
+              <i class="fa-solid fa-paper-plane"></i>
+            </div>
+            <div class="text">
+              <div><span class="headerF1">Email:</span></div>
+              <div>
+                <strong class="headerLightText">
+                  reachus@ebeeorg.com</strong>
+              </div>
+            </div>
+          </div>
+        </div>
+        <div class="col-md d-flex align-items-center mb-2 mb-md-0">
+          <div class="box d-flex">
+            <div class="icon">
+              <i class="fa-solid fa-phone"></i>
+            </div>
+            <div class="text">
+              <div><span class="headerF1">Call us:</span></div>
+              <div>
+                <strong class="headerLightText">6282713627</strong>
+              </div>
+            </div>
+          </div>
+        </div>
+        <div class="col-md d-flex align-items-center mb-2 mb-md-0">
+          <div class="box d-flex">
+            <div class="icon">
+              <i class="fa-solid fa-map-location-dot"></i>
+            </div>
+            <div class="text">
+              <div><span class="headerF1">location:</span></div>
+              <div>
+                <strong class="headerLightText"
+                  >PANAMBILLY NAGAR, Ernakulam, KOCHI</strong
+                >
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+  <nav class="navbar navbar-expand-lg navbar-light bgColor ">
+    <div class="container">
+      <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
+        Menu <span class="navbar-toggler-icon"></span>
+      </button>
+      <div class="collapse navbar-collapse" id="navbarNav" >
+        <ul class="navbar-nav"  *ngFor="let menuItem of menuItems" >
+          <li class="nav-item" routerLinkActive="active"  >
+            <a class="nav-link " [routerLink]="[menuItem.path]" >{{ menuItem.title }}</a>
+          </li>
+        </ul>
+      </div>
+    </div>
+  </nav>
+</div>
+
