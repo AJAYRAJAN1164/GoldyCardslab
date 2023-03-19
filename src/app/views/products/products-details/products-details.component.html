@@ -1,0 +1,78 @@
+<!-- ======= Portfolio Details Section ======= -->
+<section id="portfolio-details" class="portfolio-details">
+  <div class="container" data-aos="fade-up">
+
+    <!-- <div class="position-relative h-100">
+            <div id="carouselExampleInterval" class="carousel slide" data-bs-ride="carousel" class="">
+              <div class="carousel-inner"  style="width: 50%;">
+                  <div class="carousel-item" style="height:400px !important;" data-bs-interval="2000"  *ngFor="let image of productDetails?.images; let i = index"  [class.active]="i === 0">
+                    <img [src]="image.url" class="d-block w-100" [alt]="image.alt">
+                  </div>
+                
+                </div>
+                </div>
+               
+          </div> -->
+    <div id="carouselExampleCaptions" class="carousel slide" data-bs-ride="false">
+      
+      <div class="carousel-inner" style="width: 50%; position: relative;">
+        <div class="carousel-item" style="height:400px !important;" data-bs-interval="2000"
+          *ngFor="let image of productDetails?.images; let i = index" [class.active]="i === 0">
+          <img [src]="image.url" class="d-block w-100" [alt]="image.alt">
+        </div>
+        <button class="carousel-control-prev" type="button" data-bs-target="#carouselExampleCaptions" data-bs-slide="prev"
+        class="bg-grey" style="    position: absolute;
+            top: 50%;
+            left: 0;
+            background: #0000005e;
+            border: none;
+            border-radius: 11px;
+            padding: 5px;">
+        <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+        <span class="visually-hidden">Previous</span>
+      </button>
+      <button class="carousel-control-next" type="button" data-bs-target="#carouselExampleCaptions" data-bs-slide="next"
+        class="bg-grey" style=" position: absolute;
+            top: 50%;
+            right: 0;
+            background: #0000005e;
+            border: none;
+            border-radius: 11px;
+            padding: 5px;">
+        <span class="carousel-control-next-icon" aria-hidden="true"></span>
+        <span class="visually-hidden">Next</span>
+      </button>
+      <div class="carousel-indicators" style="    width: 100%;
+      margin-left: 0px;
+      background: #0000005e;
+      bottom:0px;
+      margin: 0px;">
+        <button *ngFor="let picture of pictures; let i = index" type="button"
+          [attr.data-bs-target]="'#carouselExampleCaptions'" [attr.data-bs-slide-to]="i"
+          [class.active]="i === 0"></button>
+      </div>
+
+      </div>
+     
+    </div>
+    <div class="row justify-content-between gy-4 mt-4">
+
+      <div class="col-lg-12">
+        <div class="portfolio-description">
+          <h2>{{productDetails?.product_name}}</h2>
+          <p>
+            {{productDetails?.product_description}}
+          </p>
+          <ul *ngFor="let p of productDetails?.product_subHeadings" class="p-0">
+            <li class="subHeader">{{p.subHeader}}</li>
+            <li class="subHeaderDescription">{{p.subHeaderDescription}}</li>
+          </ul>
+
+        </div>
+      </div>
+
+
+    </div>
+
+  </div>
+</section><!-- End Portfolio Details Section -->

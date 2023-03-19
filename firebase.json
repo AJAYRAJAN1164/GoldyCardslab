@@ -1,6 +1,6 @@
 {
   "hosting": {
-    "public": "dist/ebee",
+    "public": "dist/cardslab",
     "ignore": [
       "firebase.json",
       "**/.*",

@@ -9,6 +9,12 @@ const routes: Routes = [
     loadChildren: () =>
       import('./views/home/home.module').then((m) => m.HomeModule),
   },
+  {
+    path: 'product_details/:id',
+    component: DefualtLayoutComponent,
+    loadChildren: () =>
+      import('./views/products/products.module').then((m) => m.ProductsModule),
+  }
 ];
 
 @NgModule({

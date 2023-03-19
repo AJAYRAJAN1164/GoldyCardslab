@@ -1,0 +1,21 @@
+.carousel-item{
+    height: auto !important;
+}
+
+ul {
+    list-style: none !important;
+    padding: none !important;
+
+}
+
+ul .subHeader{
+    font-weight: 600;
+    margin-bottom: 20px;
+    text-decoration: underline;
+}
+
+@media screen and (max-width:768px) {
+    .carousel-inner{
+   width:100% !important;
+    }
+}

@@ -1,5 +1,5 @@
 {
-  "name": "ebee",
+  "name": "cardslab",
   "version": "0.0.0",
   "scripts": {
     "ng": "ng",
@@ -16,10 +16,13 @@
     "@angular/compiler": "~13.0.0",
     "@angular/core": "~13.0.0",
     "@angular/forms": "~13.0.0",
+    "@angular/material": "^9.2.4",
     "@angular/platform-browser": "~13.0.0",
     "@angular/platform-browser-dynamic": "~13.0.0",
     "@angular/router": "~13.0.0",
+    "@coreui/angular": "^4.3.10",
     "aos": "^2.3.4",
+    "firebase": "^9.18.0",
     "ng2-animate-on-scroll": "^2.3.2",
     "rxjs": "~7.4.0",
     "tslib": "^2.3.0",

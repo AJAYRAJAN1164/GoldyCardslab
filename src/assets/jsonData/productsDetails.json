@@ -1,0 +1,671 @@
+{
+  "product_details": [
+    {
+      "product_id": 1,
+      "product_name": "ID cards",
+      "images": [
+        {
+          "url": "../../../assets/images/new photos/ID Card/ID1.jpg",
+          "alt": "Image 1"
+        },
+        {
+          "url": "../../../assets/images/new photos/ID Card/ID2.JPG",
+          "alt": "Image 2"
+        },
+        {
+          "url": "../../../assets/images/new photos/ID Card/ID3.jpg",
+          "alt": "Image 3"
+        },
+        {
+          "url": "../../../assets/images/new photos/ID Card/ID4.jpg",
+          "alt": "Image 4"
+        },
+        {
+          "url": "../../../assets/images/new photos/ID Card/ID5.jpg",
+          "alt": "Image 5"
+        },
+        {
+          "url": "../../../assets/images/new photos/ID Card/ID6.jpg",
+          "alt": "Image 6"
+        },
+        {
+          "url": "../../../assets/images/new photos/ID Card/ID7.jpg",
+          "alt": "Image 7"
+        },
+        {
+          "url": "../../../assets/images/new photos/ID Card/ID8.jpg",
+          "alt": "Image 8"
+        },
+        {
+          "url": "../../../assets/images/new photos/ID Card/ID9.jpg",
+          "alt": "Image 9"
+        },
+        {
+          "url": "../../../assets/images/new photos/ID Card/ID10.jpg",
+          "alt": "Image 10"
+        },
+        {
+          "url": "../../../assets/images/new photos/ID Card/ID11.jpg",
+          "alt": "Image 11"
+        },
+        {
+          "url": "../../../assets/images/new photos/ID Card/ID12.jpg",
+          "alt": "Image 12"
+        },
+        {
+          "url": "../../../assets/images/new photos/ID Card/ID13.jpg",
+          "alt": "Image 13"
+        },
+        {
+          "url": "../../../assets/images/new photos/ID Card/ID14.jpg",
+          "alt": "Image 14"
+        },
+        {
+          "url": "../../../assets/images/new photos/ID Card/ID15.jpg",
+          "alt": "Image 15"
+        },
+        {
+          "url": "../../../assets/images/new photos/ID Card/ID16.jpg",
+          "alt": "Image 16"
+        },
+        {
+          "url": "../../../assets/images/new photos/ID Card/ID17.jpg",
+          "alt": "Image 17"
+        },
+        {
+          "url": "../../../assets/images/new photos/ID Card/ID18.jpg",
+          "alt": "Image 18"
+        }
+      ],
+      "short_description":"Cardslab supply a large assortment of card accessories",
+      "product_description": "Cardslab, supply a large assortment of card accessories that are appropriate for various card products.",
+      "product_subHeadings": [
+        {
+          "subHeader": "Students Card",
+          "subHeaderDescription": "Student IDs help a safe campus environment. Designed with school colors and mascots, they boost school spirit. For student id cards, first we will collect data and take photos at your school site. After finalizing the design, we will send proof with original data, design &amp; photo. After completing correction, print the final card and deliver at your school"
+        },
+        {
+          "subHeader": "Faculty and Staff ID Cards",
+          "subHeaderDescription": "Staff ID card systems allow easy identification .We improve your ID cards by adding logos and mascot images."
+        },
+        {
+          "subHeader": "Privilege Card/ Loyalty Card / Membership Card",
+          "subHeaderDescription": "Customer-loyalty cards are commonly used as marketing tool . These membership cards are offered by us in different designs, styles and colours."
+        },
+        {
+          "subHeader": "HOTEL KEY CARDS",
+          "subHeaderDescription": "We design and print beautiful hotel key cards."
+        },
+        {
+          "subHeader": "LUGGAGE TAGS",
+          "subHeaderDescription": "We produce luggage tags in varied attractive designs. These luggage tags are preferred by hotels, airlines, conferences, marriages, etc."
+        }
+      ]
+    },
+    {
+      "product_id": 2,
+      "product_name": "LANYARD",
+      "images": [
+        {
+          "url": "../../../assets/images/new photos/Lanyard/lanyard1.jpg",
+          "alt": "Image 1"
+        },
+        {
+          "url": "../../../assets/images/new photos/Lanyard/lanyard2.jpg",
+          "alt": "Image 2"
+        },
+        {
+          "url": "../../../assets/images/new photos/Lanyard/lanyard3.jpg",
+          "alt": "Image 3"
+        },
+        {
+          "url": "../../../assets/images/new photos/Lanyard/lanyard4.JPG",
+          "alt": "Image 4"
+        },
+        {
+          "url": "../../../assets/images/new photos/Lanyard/lanyard5.jpg",
+          "alt": "Image 5"
+        },
+        {
+          "url": "../../../assets/images/new photos/Lanyard/lanyard6.jpg",
+          "alt": "Image 6"
+        },
+        {
+          "url": "../../../assets/images/new photos/Lanyard/lanyard7.jpg",
+          "alt": "Image 7"
+        },
+        {
+          "url": "../../../assets/images/new photos/Lanyard/lanyard8.jpg",
+          "alt": "Image 8"
+        },
+        {
+          "url": "../../../assets/images/new photos/Lanyard/lanyard9.jpg",
+          "alt": "Image 9"
+        },
+        {
+          "url": "../../../assets/images/new photos/Lanyard/lanyard10.jpg",
+          "alt": "Image 10"
+        },{
+          "url": "../../../assets/images/new photos/Lanyard/lanyard11.jpg",
+          "alt": "Image 11"
+        },{
+          "url": "../../../assets/images/new photos/Lanyard/lanyard12.JPG",
+          "alt": "Image 12"
+        },{
+          "url": "../../../assets/images/new photos/Lanyard/lanyard13.jpg",
+          "alt": "Image 13"
+        },{
+          "url": "../../../assets/images/new photos/Lanyard/lanyard14.jpg",
+          "alt": "Image 14"
+        }
+      ],
+      "short_description":"Provides wide range of lanyards with assured premium quality",
+      "product_description": "We provide premium quality lanyards, using good quality materials.",
+      "product_subHeadings": [
+        {
+          "subHeader": "Multi Colour Lanyard (12 mm / 16 mm / 20 mm)",
+          "subHeaderDescription": "Multicolored Lanyards are available in all the colors and the most corporate way."
+        },
+        {
+          "subHeader": "Polyester Lanyards",
+          "subHeaderDescription": "We have custom printed polyester lanyards for schools, clubs and fundraising functions. You can print your own custom logos and text on our lanyards."
+        },
+        {
+          "subHeader": "Tubular",
+          "subHeaderDescription": "Custom printed tube lanyards also designed by us. You can print your own logos and text in lanyards."
+        },
+        {
+          "subHeader": "Nylon Lanyards",
+          "subHeaderDescription": "We provide custom printed nylon economical lanyards also, to display name tags, badges and more for your next event, tradeshow or company meeting, school clubs and fundraising."
+        }
+      ]
+    },
+    {
+      "product_id": 3,
+      "product_name": "CARD HOLDERS",
+      "images": [
+        {
+          "url": "../../assets/images/new photos/cardHolder/h1.jpg",
+          "alt": "Image 1"
+        },
+        {
+          "url": "../../assets/images/new photos/cardHolder/h2.jpg",
+          "alt": "Image 2"
+        },
+        {
+          "url": "../../assets/images/new photos/cardHolder/h3.jpg",
+          "alt": "Image 3"
+        },
+        {
+          "url": "../../assets/images/new photos/cardHolder/h4.jpg",
+          "alt": "Image 4"
+        },
+        {
+          "url": "../../assets/images/new photos/cardHolder/h5.jpg",
+          "alt": "Image 5"
+        },
+        {
+          "url": "../../assets/images/new photos/cardHolder/h6.jpg",
+          "alt": "Image 6"
+        },
+        {
+          "url": "../../assets/images/new photos/cardHolder/h7.JPG",
+          "alt": "Image 7"
+        },
+        {
+          "url": "../../assets/images/new photos/cardHolder/h8.JPG",
+          "alt": "Image 8"
+        },
+        {
+          "url": "../../assets/images/new photos/cardHolder/h9.JPG",
+          "alt": "Image 9"
+        },
+        {
+          "url": "../../assets/images/new photos/cardHolder/h10.jpg",
+          "alt": "Image 10"
+        },
+        {
+          "url": "../../assets/images/new photos/cardHolder/h11.jpg",
+          "alt": "Image 11"
+        },
+        {
+          "url": "../../assets/images/new photos/cardHolder/h12.JPG",
+          "alt": "Image 12"
+        },
+        {
+          "url": "../../assets/images/new photos/cardHolder/h13.jpg",
+          "alt": "Image 13"
+        },
+        {
+          "url": "../../assets/images/new photos/cardHolder/h14.jpg",
+          "alt": "Image 14"
+        },
+        {
+          "url": "../../assets/images/new photos/cardHolder/h15.jpg",
+          "alt": "Image 15"
+        },
+        {
+          "url": "../../assets/images/new photos/cardHolder/h16.jpg",
+          "alt": "Image 16"
+        },
+        {
+          "url": "../../assets/images/new photos/cardHolder/h17.jpg",
+          "alt": "Image 17"
+        },
+        {
+          "url": "../../assets/images/new photos/cardHolder/h18.jpg",
+          "alt": "Image 18"
+        },
+        {
+          "url": "../../assets/images/new photos/cardHolder/h19.jpeg",
+          "alt": "Image 19"
+        }
+      ],
+      "short_description":"Used to keep your card safely from damages",
+      "product_description": "It is used to keep your card safe from damage. We are supplying most reliable Card Holders both horizontal and vertical orientations.",
+      "product_subHeadings": [
+        {
+          "subHeader": "Proximity card holders",
+          "subHeaderDescription": "Available in ISO standard sizes, easy to use with yoyo reel, lanyard or strap. It is also available in horizontal and vertical orientations."
+        },
+        {
+          "subHeader": "Holders for conventions",
+          "subHeaderDescription": "Cardslab offers both economy and premium holders use at meetings and conventions. Available in horizontal & vertical orientations."
+        },
+        {
+          "subHeader": "POUCHES",
+          "subHeaderDescription": "We supply the finest quality pouches."
+        }
+      ]
+    },
+    {
+      "product_id": 4,
+      "product_name": "YOYO (RETRACTABLE BADGES)",
+      "images": [
+        {
+          "url": "../../assets/images/new photos/YOYO/yoyo1.jpg",
+          "alt": "Image 1"
+        },
+        {
+          "url": "../../assets/images/new photos/YOYO/yoyo2.jpg",
+          "alt": "Image 2"
+        },
+        {
+          "url": "../../assets/images/new photos/YOYO/yoyo3.jpg",
+          "alt": "Image 3"
+        },
+        {
+          "url": "../../assets/images/new photos/YOYO/yoyo4.jpg",
+          "alt": "Image 4"
+        },
+        {
+          "url": "../../assets/images/new photos/YOYO/yoyo5.jpg",
+          "alt": "Image 5"
+        },
+        {
+          "url": "../../assets/images/new photos/YOYO/yoyo6.jpg",
+          "alt": "Image 6"
+        },
+        {
+          "url": "../../assets/images/new photos/YOYO/yoyo7.jpg",
+          "alt": "Image 7"
+        },
+        {
+          "url": "../../assets/images/new photos/YOYO/yoyo8.JPG",
+          "alt": "Image 8"
+        },
+        {
+          "url": "../../assets/images/new photos/YOYO/yoyo9.JPG",
+          "alt": "Image 9"
+        },
+        {
+          "url": "../../assets/images/new photos/YOYO/yoyo10.JPG",
+          "alt": "Image 10"
+        },
+        {
+          "url": "../../assets/images/new photos/YOYO/yoyo11.JPG",
+          "alt": "Image 11"
+        }
+      ],
+      "short_description":"We provide's best quality yoyo's within the industry",
+      "product_description": "We provide excellent quality badges and id card yo-yo are available in varied designs, sizes, colours, etc, and can also be customised to have Company Logo doom sticker branding. ID Badge Reel.",
+      "product_subHeadings": [
+        {
+          "subHeader": "Available yoyo's are",
+          "subHeaderDescription": "Round, Ovel, Square, Steel, Plastic"
+        }
+      ]
+    },
+    {
+      "product_id": 5,
+      "product_name": "School Student Belts",
+      "images": [
+        {
+          "url": "../../../assets/images/new photos/Belts/belt1.jpg",
+          "alt": "Image 1"
+        },
+        {
+          "url": "../../../assets/images/new photos/Belts/belt2.jpg",
+          "alt": "Image 2"
+        },
+        {
+          "url": "../../../assets/images/new photos/Belts/belt3.jpg",
+          "alt": "Image 3"
+        },
+        {
+          "url": "../../../assets/images/new photos/Belts/belt4.jpg",
+          "alt": "Image 4"
+        },
+        {
+          "url": "../../../assets/images/new photos/Belts/belt5.jpg",
+          "alt": "Image 5"
+        },{
+          "url": "../../../assets/images/new photos/Belts/belt6.jpg",
+          "alt": "Image 6"
+        }
+      ],
+      "short_description":"Cardslab offering a quality assortment of School Belts with Emblem",
+      "product_description": "We are offering a quality assortment of School Belts with Emblem to our clients. Cardslab offering various kinds of school belts and corporate belts along with logo. Manufactured from finest quality cotton and polyester, these are available in various sizes, patterns and designs. Belt buckles are available in metal powder coated, steel powder coated , high quality steel engraved etc.",
+      "product_subHeadings": []
+    },
+    {
+      "product_id": 6,
+      "product_name": "Name Plates / Name badges",
+      "images": [
+        {
+          "url": ".././../../assets/images/new photos/Name cards/n1.jpg",
+          "alt": "Image 1"
+        },
+        {
+          "url": ".././../../assets/images/new photos/Name cards/n2.jpg",
+          "alt": "Image 2"
+        },
+        {
+          "url": ".././../../assets/images/new photos/Name cards/n3.jpg",
+          "alt": "Image 3"
+        },
+        {
+          "url": ".././../../assets/images/new photos/Name cards/n4.jpg",
+          "alt": "Image 4"
+        },
+        {
+          "url": ".././../../assets/images/new photos/Name cards/n5.jpg",
+          "alt": "Image 5"
+        },
+        {
+          "url": ".././../../assets/images/new photos/Name cards/n6.jpg",
+          "alt": "Image 6"
+        },
+        {
+          "url": ".././../../assets/images/new photos/Name cards/n6.jpg",
+          "alt": "Image 6"
+        },
+        {
+          "url": ".././../../assets/images/new photos/Name cards/n7.jpg",
+          "alt": "Image 7"
+        },
+        {
+          "url": ".././../../assets/images/new photos/Name cards/n8.jpg",
+          "alt": "Image 8"
+        },
+        {
+          "url": ".././../../assets/images/new photos/Name cards/n9.jpg",
+          "alt": "Image 9"
+        },
+        {
+          "url": ".././../../assets/images/new photos/Name cards/n10.jpg",
+          "alt": "Image 10"
+        },
+        {
+          "url": ".././../../assets/images/new photos/Name cards/n11.jpg",
+          "alt": "Image 11"
+        },
+        {
+          "url": ".././../../assets/images/new photos/Name cards/n12.jpg",
+          "alt": "Image 12"
+        },
+        {
+          "url": ".././../../assets/images/new photos/Name cards/n13.jpg",
+          "alt": "Image 13"
+        },
+        {
+          "url": ".././../../assets/images/new photos/Name cards/n15.jpg",
+          "alt": "Image 15"
+        },
+        {
+          "url": ".././../../assets/images/new photos/Name cards/n17.jpg",
+          "alt": "Image 17"
+        },
+        {
+          "url": ".././../../assets/images/new photos/Name cards/n18.jpg",
+          "alt": "Image 18"
+        },
+        {
+          "url": ".././../../assets/images/new photos/Name cards/n19.JPG",
+          "alt": "Image 19"
+        },
+        {
+          "url": ".././../../assets/images/new photos/Name cards/n21.jpg",
+          "alt": "Image 21"
+        },
+        {
+          "url": ".././../../assets/images/new photos/Name cards/n22.jpg",
+          "alt": "Image 22"
+        },
+        {
+          "url": ".././../../assets/images/new photos/Name cards/n6.jpg",
+          "alt": "Image 23"
+        },
+        {
+          "url": ".././../../assets/images/new photos/Name cards/n24.jpg",
+          "alt": "Image 24"
+        },
+        {
+          "url": ".././../../assets/images/new photos/Name cards/n25.jpg",
+          "alt": "Image 25"
+        },
+        {
+          "url": ".././../../assets/images/new photos/Name cards/n26.jpg",
+          "alt": "Image 26"
+        },
+        {
+          "url": ".././../../assets/images/new photos/Name cards/n27.jpg",
+          "alt": "Image 27"
+        },
+        {
+          "url": ".././../../assets/images/new photos/Name cards/n28.jpg",
+          "alt": "Image 28"
+        },
+        {
+          "url": ".././../../assets/images/new photos/Name cards/n29.jpg",
+          "alt": "Image 29"
+        }
+      ],
+      "short_description":"Name-plates are available in a wide range of sizes in Acrylic",
+      "product_description": "Name-plates are available in a wide range of sizes in Acrylic, Plastic and Steel with back side pin/ clip/ magnetic. Available in Standard sizes. Suitable for Students, Officers, Hospitals, Hotels etc, House Names/ Number, Table Top board etc.",
+      "product_subHeadings": []
+    },
+    {
+      "product_id": 7,
+      "product_name": "Button Badges / Event Badges",
+      "images": [
+        {
+          "url": "../../../assets/images/new photos/badges/b1.jpg",
+          "alt": "Image 1"
+        },
+        {
+          "url": "../../../assets/images/new photos/badges/b2.jpg",
+          "alt": "Image 2"
+        },
+        {
+          "url": "../../../assets/images/new photos/badges/b3.jpg",
+          "alt": "Image 3"
+        },
+        {
+          "url": "../../../assets/images/new photos/badges/b4.jpg",
+          "alt": "Image 4"
+        },
+        {
+          "url": "../../../assets/images/new photos/badges/b5.jpg",
+          "alt": "Image 5"
+        },
+        {
+          "url": "../../../assets/images/new photos/badges/b6.jpg",
+          "alt": "Image 6"
+        }
+      ],
+      "short_description":"Cardslab Offering Button badges and event badges",
+      "product_description": "Button badges were made with your campaign or cause in mind so let us help you spread the word. We supply button badges to campaigns, gatherings, schools, Colleges, institutions, etc. We can print, photos, logos, messages, etc. Available sizes are 25 mm, 38 mm, 55 mm, 76 mm dias and also availbel in the Material steel & Plastic.",
+      "product_subHeadings": [
+        {
+          "subHeader": "Event Badges",
+          "subHeaderDescription": " An event name badge consists of a badge displayed in neck lanyard or on clothes with the event attendees name and information, like title and the organizer’s logo etc. A personalized badge with the badge holder’s name and other details can be a solid conversation starter."
+        }
+      ]
+    },
+    {
+      "product_id": 8,
+      "product_name": "MEMENTO/ TROPHY / MEDAL",
+      "images": [
+        {
+          "url": "../../../assets/images/new photos/Trophy/t1.jpg",
+          "alt": "Image 1"
+        },
+        {
+          "url": "../../../assets/images/new photos/Trophy/t2.jpg",
+          "alt": "Image 2"
+        },
+        {
+          "url": "../../../assets/images/new photos/Trophy/t3.jpg",
+          "alt": "Image 3"
+        },
+        {
+          "url": "../../../assets/images/new photos/Trophy/t4.jpg",
+          "alt": "Image 4"
+        },
+        {
+          "url": "../../../assets/images/new photos/Trophy/t5.jpg",
+          "alt": "Image 5"
+        },
+        {
+          "url": "../../../assets/images/new photos/Trophy/t6.jpg",
+          "alt": "Image 6"
+        },
+        {
+          "url": "../../../assets/images/new photos/Trophy/t7.jpg",
+          "alt": "Image 7"
+        },
+        {
+          "url": "../../../assets/images/new photos/Trophy/t8.jpg",
+          "alt": "Image 8"
+        },
+        {
+          "url": "../../../assets/images/new photos/Trophy/t9.jpg",
+          "alt": "Image 9"
+        },
+        {
+          "url": "../../../assets/images/new photos/Trophy/t10.jpg",
+          "alt": "Image 10"
+        }
+      ],
+      "short_description":"Wide range of Trophy are available with attractive packing and pricing",
+      "product_description": "Wide range of Trophy are available with attractive packing and pricing",
+      "product_subHeadings": []
+    },
+    {
+      "product_id": 9,
+      "product_name": "Cups / Tshirt print",
+      "images": [
+        {
+          "url": "../../../assets/images/new photos/Cups/c1.jpg",
+          "alt": "Image 1"
+        },
+        {
+          "url": "../../../assets/images/new photos/Cups/c2.jpg",
+          "alt": "Image 2"
+        },
+        {
+          "url": "../../../assets/images/new photos/Cups/c3.jpg",
+          "alt": "Image 3"
+        },
+        {
+          "url": "../../../assets/images/new photos/Cups/c4.jpg",
+          "alt": "Image 4"
+        }
+      ],
+      "short_description":"Customized cups / Tshirts will be printed according to the order",
+      "product_description": "Customized cups / tshirts will be printed according to the order",
+      "product_subHeadings": []
+    },
+    {
+      "product_id": 10,
+      "product_name": "Medals",
+      "images": [
+        {
+          "url": "../../../assets/images/new photos/Medal/t8.jpg",
+          "alt": "Image 1"
+        }, {
+          "url": "../../../assets/images/new photos/Medal/t7.jpg",
+          "alt": "Image 2"
+        }
+      ],
+      "short_description":"Attractive Medals will be done according to the order within attractive prize range",
+      "product_description": "Attractive Medals will be done according to the order within attractive prize range",
+      "product_subHeadings": []
+    },
+    {
+      "product_id": 11,
+      "product_name": "Doom Stickers",
+      "images": [
+        {
+          "url": "../../../assets/images/new photos/doom stickers/d1.jpg",
+          "alt": "Image 1"
+        },
+        {
+          "url": "../../../assets/images/new photos/doom stickers/d2.jpg",
+          "alt": "Image 1"
+        },
+        {
+          "url": "../../../assets/images/new photos/doom stickers/d3.jpg",
+          "alt": "Image 1"
+        }
+      ],
+      "short_description":"Doom Stickers are available in different sizes, shapes and in multicolor.",
+      "product_description": "These Doom Stickers are used to display company logo or theme on flat, clean and smooth surface by peeling the back . Doom Stickers are available in different sizes, shapes and in multicolor.",
+      "product_subHeadings": []
+    },
+    {
+      "product_id": 12,
+      "product_name": "Photo / Certificate Frame",
+      "images": [
+        {
+          "url": "../../../assets/images/new photos/frames/f1.jpg",
+          "alt": "Image 1"
+        },
+        {
+          "url": "../../../assets/images/new photos/frames/f2.jpg",
+          "alt": "Image 2"
+        },
+        {
+          "url": "../../../assets/images/new photos/frames/f3.jpg",
+          "alt": "Image 3"
+        },
+        {
+          "url": "../../../assets/images/new photos/frames/f4.jpg",
+          "alt": "Image 4"
+        },
+        {
+          "url": "../../../assets/images/new photos/frames/f5.jpg",
+          "alt": "Image 5"
+        },
+        {
+          "url": "../../../assets/images/new photos/frames/f6.jpg",
+          "alt": "Image 6"
+        }
+      ],
+      "short_description":"Frame's will be done according to the order",
+      "product_description": "Frame's will be done according to the order.",
+      "product_subHeadings": []
+    }
+  ]
+}

@@ -1,11 +1,21 @@
-nav {
-  /* position: fixed;
-  top: 92px;
+#navbar ul li a  {
+  font-family: "Lato", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
+}
+
+.navbar-nav > .active > a { 
+  text-decoration: underline !important;
+}
+.imgDiv{
+width: auto;
+height: 100px;
+padding: 20px;
+padding-left: 0px;
+}
+.imgDiv img{
+  height: 100%;
   width: 100%;
-  z-index: 99;
-  left: 0px;
-  display: block;
-  transition: top 0.3s; */
+  border: 2px solid white;
+  border-radius: 12px;
 }
 .top-wrap {
   background: #1c1c1c !important;
@@ -70,6 +80,5 @@ nav ul li a {
 }
 
 .active {
-  background: #090909;
-  border-radius: 5%;
+  text-decoration: underline !important;
 }

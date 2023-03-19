@@ -1,9 +1,12 @@
 {
   "$schema": "./node_modules/@angular/cli/lib/config/schema.json",
+  "cli": {
+    "analytics": "7e67ae09-52bb-4170-ad43-19c5b2ca04a1"
+  },
   "version": 1,
   "newProjectRoot": "projects",
   "projects": {
-    "ebee": {
+    "cardslab": {
       "projectType": "application",
       "schematics": {
         "@schematics/angular:application": {
@@ -17,7 +20,7 @@
         "build": {
           "builder": "@angular-devkit/build-angular:browser",
           "options": {
-            "outputPath": "dist/ebee",
+            "outputPath": "dist/cardslab",
             "index": "src/index.html",
             "main": "src/main.ts",
             "polyfills": "src/polyfills.ts",
@@ -70,10 +73,10 @@
           "builder": "@angular-devkit/build-angular:dev-server",
           "configurations": {
             "production": {
-              "browserTarget": "ebee:build:production"
+              "browserTarget": "cardslab:build:production"
             },
             "development": {
-              "browserTarget": "ebee:build:development"
+              "browserTarget": "cardslab:build:development"
             }
           },
           "defaultConfiguration": "development"
@@ -81,7 +84,7 @@
         "extract-i18n": {
           "builder": "@angular-devkit/build-angular:extract-i18n",
           "options": {
-            "browserTarget": "ebee:build"
+            "browserTarget": "cardslab:build"
           }
         },
         "test": {
@@ -104,5 +107,5 @@
       }
     }
   },
-  "defaultProject": "ebee"
+  "defaultProject": "cardslab"
 }
